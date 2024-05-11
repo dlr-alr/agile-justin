@@ -4,7 +4,7 @@ markdown: kramdown
 title: |-
     Agile Justin
 
-author: berthold.baeuml@dlr.de
+author: berthold.baeuml@tum.de
 
 header_pages:
   - _pages/system.md
